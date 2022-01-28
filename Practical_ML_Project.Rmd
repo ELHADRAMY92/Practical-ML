@@ -1,7 +1,6 @@
 ---
 title: "Practical Machine Learning Project"
 author: "EL HADRAMY Mohamed"
-date: "07 JAN 2022"
 output: html_document
 ---
 
