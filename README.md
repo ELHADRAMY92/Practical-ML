@@ -31,8 +31,8 @@
 
 
 <h1 class="title toc-ignore">Practical Machine Learning Project</h1>
-<h4 class="author">EL HADRAMY Mohamed</h4>
-<h4 class="date">07 JAN 2022</h4>
+
+<p> Please find the web site format of the project via the following url : https://elhadramy92.github.io/Practical-ML/  </p>
 
 </div>
 
