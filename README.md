@@ -31,7 +31,7 @@
 
 
 <h1 class="title toc-ignore">Practical Machine Learning Project</h1>
-
+<h3> EL HADRAMY Mohamed </h3>
 <p> Please find the web site format of the project via the following url : https://elhadramy92.github.io/Practical-ML/  </p>
 
 </div>
