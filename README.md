@@ -1,6 +1,5 @@
 # Practical Machine Learning Project
-### EL HADRAMY Mohamed
-_07 JAN 2022_
+
 
 ---
 
